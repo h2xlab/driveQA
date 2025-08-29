@@ -22,11 +22,14 @@
 
 ---
 
+
 </div>
 
-## Dataset Summary
+## Overview
 
 DriveQA is a comprehensive multimodal benchmark that evaluates driving knowledge through text-based and vision-based question-answering tasks. The dataset simulates real-world driving knowledge tests, assessing LLMs and MLLMs on traffic regulations, sign recognition, and right-of-way reasoning.
+
+<div align='center'><img src="driveqa_main.png"  alt="data_illustration" width="80%"/></div>
 
 ## Supported Tasks
 
