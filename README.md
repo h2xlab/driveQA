@@ -16,7 +16,7 @@
 * equal contribution
 </div>
 
-[[Arxiv]]()
+[[Arxiv]](https://arxiv.org/abs/2508.21824)
 [[Website]](https://driveqaiccv.github.io/)
 [[🤗 Dataset]](https://huggingface.co/datasets/DriveQA/DriveQA_Dataset)
 
